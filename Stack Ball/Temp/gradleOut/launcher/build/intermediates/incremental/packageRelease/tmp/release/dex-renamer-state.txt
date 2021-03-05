@@ -1,0 +1,4 @@
+#Sat Mar 06 01:28:28 BDT 2021
+base.0=/Users/imransifat/Desktop/Game Development/Stack Ball/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
